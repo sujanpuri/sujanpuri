@@ -18,7 +18,9 @@ Hello There!! 👋
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/17/Google-flutter-logo.png" alt="Flutter Logo" height="100">
 </div>
 
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Coding GIF" height="200">
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/github-header.gif" alt="Cool GitHub Header GIF" width="500" height="300">
+</div>
 
 # Check out my projects: [project repository](https://github.com/yourusername/yourrepository](https://github.com/sujanpuri?tab=repositories).
 
