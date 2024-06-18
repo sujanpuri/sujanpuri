@@ -3,7 +3,7 @@ Hello There!! 👋
 
 - Portfolio : [portfolio](https://www.sujanpuri.com.np/)
 
-# Here are some of the programming langauges I learnd.
+## Here are some of the programming langauges I learnd.
 - Web-Development:
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l0ZzdjcXE0MjJod2h5aTEwejc2cWg2dGpkNGkwZnpmZ3R2YWF2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5 Logo" height="100">
@@ -25,5 +25,12 @@ Hello There!! 👋
 </div>
 
 # Check out 
-- my projects: [Github Projects](https://github.com/sujanpuri?tab=repositories).<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Flutter Logo" height="100">
+- my projects: [Github Projects](https://github.com/sujanpuri?tab=repositories).
+<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Flutter Logo" height="100">
+
+# Gifs
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/github-header.gif" alt="Cool GitHub Header GIF" width="500" height="300">
+</div>
 
