@@ -22,5 +22,5 @@ Hello There!! 👋
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/github-header.gif" alt="Cool GitHub Header GIF" width="500" height="300">
 </div>
 
-# Check out my projects: [project repository](https://github.com/yourusername/yourrepository](https://github.com/sujanpuri?tab=repositories).
+# Check out my projects: [project repository](https://github.com/sujanpuri?tab=repositories).
 
