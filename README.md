@@ -18,9 +18,10 @@ Hello There!! 👋
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" alt="Flutter Logo" height="100">
 </div>
 
-- Gifs
+- Coding Langauges:
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/raw/main/GIFs/github-header.gif" alt="Cool GitHub Header GIF" width="500" height="300">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/926px-C_Programming_Language.svg.png" alt="Dart Logo" height="100">
+  <img src="https://www.shutterstock.com/image-vector/emblem-c-plus-programming-language-600nw-1764554240.jpg" alt="Flutter Logo" height="100">
 </div>
 
 # Check out 
