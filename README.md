@@ -15,7 +15,7 @@ Hello There!! 👋
 - Mobile-App Develpment:
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://dart.dev/assets/img/logo/dart-logo-for-shares.png?2" alt="Dart Logo" height="100">
-  <img src="https://w7.pngwing.com/pngs/67/315/png-transparent-flutter-hd-logo-thumbnail.png" alt="Flutter Logo" height="100">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flutter_logo.svg/2048px-Flutter_logo.svg.png" alt="Flutter Logo" height="100">
 </div>
 
 - Gifs
