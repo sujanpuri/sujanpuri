@@ -33,7 +33,6 @@ Hello There!! 👋
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://private-user-images.githubusercontent.com/74038190/238353480-219bcc70-f5dc-466b-9a60-29653d8e8433.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTg3MDIzNzcsIm5iZiI6MTcxODcwMjA3NywicGF0aCI6Ii83NDAzODE5MC8yMzgzNTM0ODAtMjE5YmNjNzAtZjVkYy00NjZiLTlhNjAtMjk2NTNkOGU4NDMzLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA2MTglMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNjE4VDA5MTQzN1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWE1YmVjYmMzY2QzZGExZGNiZjhlZjY3YzA3NjE3YWU0MWQzMDhhYTA4Nzc2NzEwYjRhYjY0OWM5M2I3ZDkxNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.ovH_VKn1sq4E4ilc6N3UIq44ZqFthrdVVCkfzfR9f7o" alt="Cool GitHub Header GIF" height="300">
   
-  <img src="
-  https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Cool GitHub Header GIF" height="300">
+  <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" alt="Cool GitHub Header GIF" height="300">
 </div>
 
