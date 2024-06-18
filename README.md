@@ -25,5 +25,5 @@ Hello There!! 👋
 </div>
 
 # Check out 
-- my projects: [Github Projects](https://github.com/sujanpuri?tab=repositories).
+- my projects: [Github Projects](https://github.com/sujanpuri?tab=repositories).<img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" alt="Flutter Logo" height="100">
 
