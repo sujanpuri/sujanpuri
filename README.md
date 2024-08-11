@@ -3,7 +3,7 @@ Hello There!! 👋
 
 - Portfolio : [portfolio](https://www.sujanpuri.com.np/)
 
-## Here are some of the programming langauges I learnd.
+## Here are some of the programming langauges I know.
 - Web-Development:
 <div style="display: flex; justify-content: center; align-items: center;">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2l0ZzdjcXE0MjJod2h5aTEwejc2cWg2dGpkNGkwZnpmZ3R2YWF2eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/XAxylRMCdpbEWUAvr8/giphy.gif" alt="HTML5 Logo" height="100">
